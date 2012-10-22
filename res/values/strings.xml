@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MARTAActivity!</string>
+    <string name="app_name">MARTAv1.0</string>
+    <string name="desc">MARTA System Map</string>
+    <string name="line_chooser"> Select Line </string>
+    <string-array name="line_array">
+        <item>Red Line</item>
+        <item>Gold Line</item>
+        <item>Green Line</item>
+        <item>Blue Line</item>
+    </string-array>
+    <string name="nextnorthbound">Next Northbound Train:</string>
+    <string name="nextsouthbound">Next Southbound Train:</string>
+    <string name="nexteastbound">Next Eastbound Train:</string>
+    <string name="nextwestbound">Next Westbound Train:</string>
+    <string name="back">Back</string>
+    <string name="fullschedule">Full Schedule</string>
+
+</resources>

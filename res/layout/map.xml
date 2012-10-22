@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+    
+    <ImageView
+        android:contentDescription="@string/desc"
+        android:src="@drawable/marta_map"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+		android:id="@+id/marta_map"
+		/>
+</FrameLayout>
